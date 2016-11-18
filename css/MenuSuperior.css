@@ -1,0 +1,50 @@
+.MenuSuperior{
+	   
+    width: 250px;
+    height: 300px;
+    background-color: #fff;
+    position: absolute;
+    margin: 15px 0px 0px 715px;
+    opacity: 0;
+    box-shadow: 0 0 1px 1px;
+    border-radius: 10px;
+}
+li{
+	list-style: none;
+	display: block;
+	position: relative;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+#IniciarSesion{
+border: none;
+width: 150px;
+height: 20px;
+font-size: 14px;
+color: #000;
+position: relative;
+left: 25px;
+bottom: 30px;
+box-shadow: 0 0 1px 1px;
+}
+li #OlvidoContrasena{
+font-size: 10px;
+font-family: arial;
+color: #ccc;
+position: relative;
+bottom: 60px;
+right: 10px;
+}
+li #Registrarse{
+font-size: 10px;
+    font-family: arial;
+    color: #ccc;
+    position: relative;
+    bottom: 128px;
+    left: 162px;
+}
+#H5IS{
+        position: absolute;
+    top: 20px;
+    left: 50px
+}
