@@ -10,5 +10,10 @@
 .navbar-jul{
 	background-color: #ccc; 
 }
-
+#fila01{
+	background-color: #cece; 
+}
+body{
+	position: relative;
+}
 /*# sourceMappingURL=bootstrap.min.css.map */
