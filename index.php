@@ -10,6 +10,7 @@
 		<!-- Ultima Compilacion de JavaScript de Bootstrap -->   <script src="css/bootstrap/js/bootstrap.min.js"></script>
 </head>
 <body>
+<!-- Menu principal -->
 	<nav class="navbar navbar-default navbar-fixed-top navbar-jul">
 		  <div class="container-fluid">
 		    	<div class="navbar-header"><a class="navbar-brand" href="#">AppWebIUTM</a></div>
@@ -34,5 +35,7 @@
 				  </div>
 		  </div>
 	</nav>
+	<!-- end Menu principal -->
+	
 </body>
 </html>
