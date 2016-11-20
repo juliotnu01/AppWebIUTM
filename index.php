@@ -11,12 +11,18 @@
 </head>
 <body>
 <!-- Menu principal -->
-	<nav class="navbar navbar-default navbar-fixed-top navbar-jul">
+	<nav class="navbar navbar-default navbar-jul">
 		  <div class="container-fluid">
-		    	<div class="navbar-header"><a class="navbar-brand" href="#">AppWebIUTM</a></div>
-				    <div class="collapse navbar-collapse">
+		    	<div class="navbar-header"><a class="navbar-brand" href="#">AppWebIUTM</a>
+			    	 <button type="button" class="navbar-toggle navbar-" data-toggle="collapse" data-target="#myNavbar">
+	       				<span class="icon-bar"></span>
+	        			<span class="icon-bar"></span>
+	        			<span class="icon-bar"></span>
+	      			</button>
+		    	</div>
+				    <div class="collapse navbar-collapse" id="myNavbar">
 					    <ul class="nav navbar-nav">
-					      <li class="navbar-jul"><a href="#">INICIO</a></li>
+					      <li class=" navbar-jul"><a href="#">INICIO</a></li>
 					      <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">PAGINA 1 <span class="caret"></span></a>
 						        <ul class="dropdown-menu">
 						          <li><a href="#">Pagina 1.1</a></li>
@@ -37,5 +43,15 @@
 	</nav>
 	<!-- end Menu principal -->
 	
+		
+<div class="row" >
+	<div class="col-xs-3 text-center"> inicio</div>	
+	<div class="col-xs-3 text-center"> inicio</div>
+	<div class="col-xs-3 text-center"> inicio</div>
+	<div class="col-xs-3 text-center"> inicio</div>
+
+</div>
+	
+
 </body>
 </html>
